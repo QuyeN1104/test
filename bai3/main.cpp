@@ -1,5 +1,6 @@
 ﻿#include"function.h"
 int main(){
+	cout << "hahahaha" << endl;
 	srand(4003);
 	// số lượng đường tròn
 	int n = 5 + rand() % 20;
